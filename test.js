@@ -1,2 +1,9 @@
 //Hello
-const test = "3213";
+const test = "Hello";
+
+//Функция приветсвия
+const func = () => {
+  console.log("dsad");
+};
+
+func();
