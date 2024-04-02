@@ -1,5 +1,5 @@
 //Hello
-const test = "Hello";
+const test = "1234";
 
 //Функция приветсвия
 const func = () => {
